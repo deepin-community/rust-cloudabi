@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+rust-cloudabi (0.0.3-1) unstable; urgency=medium
 
-  * Initial release
+  * Package cloudabi 0.0.3 from crates.io using debcargo 2.2.3
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Wolfgang Silbermayr <wolfgang@silbermayr.at>  Sun, 15 Jul 2018 22:26:48 -0700

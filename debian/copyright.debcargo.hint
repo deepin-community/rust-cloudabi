@@ -4,13 +4,32 @@ Upstream-Contact: Nuxi (https://nuxi.nl/) and contributors
 Source: https://github.com/nuxinl/cloudabi
 
 Files: *
-Copyright: 2016-2018 Nuxi (https://nuxi.nl/) and contributors
+Copyright: FIXME (overlay) UNKNOWN-YEARS Nuxi (https://nuxi.nl/) and contributors
 License: BSD-2-Clause
+Comment:
+ FIXME (overlay): Since upstream copyright years are not available in
+ Cargo.toml, they were extracted from the upstream Git repository. This may not
+ be correct information so you should review and fix this before uploading to
+ the archive.
+
+Files: ./bitflags.rs
+Copyright: 2018 Nuxi (https://nuxi.nl/) and contributors.
+License: UNKNOWN-LICENSE; FIXME (overlay)
+Comment:
+ FIXME (overlay): These notices are extracted from files. Please review them
+ before uploading to the archive.
+
+Files: ./cloudabi.rs
+Copyright: 2016-2017 Nuxi (https://nuxi.nl/) and contributors.
+License: UNKNOWN-LICENSE; FIXME (overlay)
+Comment:
+ FIXME (overlay): These notices are extracted from files. Please review them
+ before uploading to the archive.
 
 Files: debian/*
 Copyright:
  2018 Debian Rust Maintainers <pkg-rust-maintainers@alioth-lists.debian.net>
- 2018 Wolfgang Silbermayr <wolfgang@silbermayr.at>
+ 2018 FIXME (overlay) Your Name <Your Email>
 License: BSD-2-Clause
 
 License: BSD-2-Clause
